@@ -2,8 +2,7 @@
   "name": "client",
   "version": "0.1.0",
   "private": true,
-  //"homepage": "https://github.com/7henoble1/elijah-moonshoot.git",
-  "homepage": "https://7henoble1.github.io/portfolio/",
+  "homepage": "http://7henoble1.github.io/elijah-moonshoot",
   "dependencies": {
     "@apollo/react-hooks": "3.0.0",
     "@reach/router": "^1.2.1",
